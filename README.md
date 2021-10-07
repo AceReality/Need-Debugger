@@ -1,7 +1,7 @@
 # Need-Debugger
 Need to learn how to use shopify_api.py request assistance from @federiva
 I am thinking I should be able to run "python shopify_api.py help" without auth or session is this correct?
-I am thinking these error may have something to do with python installation problem or pip problems or dependency problems?
+I am thinking these error may have something to do with python installation problem or pip problems or missing dependencies?
 
 Microsoft Windows [Version 10.0.19042.1237]
 (c) Microsoft Corporation. All rights reserved.
