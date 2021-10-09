@@ -1,5 +1,5 @@
 # Find the bug causing output to be errors instead of expected help returned
-
+this is not as up to date as my post on shopify forums.  I'll get back to this after I complete some more necessary Partner Academy training
 I Need to learn how to use shopify_api.py requesting assistance from @federiva @mllemango and more.  I'm new here.  Hello World.
 
 I am thinking I should be able to run "python shopify_api.py help" without auth or session is this correct?
